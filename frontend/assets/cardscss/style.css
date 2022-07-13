@@ -4,6 +4,18 @@
   box-sizing: border-box;
 }
 
+.main-container{
+  margin-bottom: 50%;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
 .thead-container{
   display: flex;
+  
+}
+
+.fds-container{
+  width: 35rem;
+  height: 12rem;
 }
