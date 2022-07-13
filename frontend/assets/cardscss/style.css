@@ -16,6 +16,20 @@
 }
 
 .fds-container{
-  width: 35rem;
-  height: 12rem;
+  width: 40rem;
+  height: 25rem;
+}
+
+.img-lg-sus{
+  width: 4rem;
+  height: 4rem;
+}
+
+.img-lg-pft-mba{
+  width: 4rem;
+  height: 4rem;
+}
+
+.section-container div{
+  display: flex;
 }
