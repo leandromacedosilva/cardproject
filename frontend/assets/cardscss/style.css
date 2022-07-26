@@ -5,9 +5,9 @@
 }
 
 .main-container{
-  margin-bottom: 50%;
+  margin-bottom: 20%;
   margin-left: 30%;
-  margin-top: 10%;
+  margin-top: 4%;
 }
 
 .thead-container{
@@ -33,3 +33,5 @@
 .section-container div{
   display: flex;
 }
+
+/* formatação das divs */

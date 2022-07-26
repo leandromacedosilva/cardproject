@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --color-bkg-bd: cadetblue;
+}
+
+body{
+    background: var(--color-bkg-bd);
+}
+
+#box-lb{
+    text-transform: uppercase;
+}
+
+#box-line-dv{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+#box-line1{
+    width: 70rem;
+    height: 1px;
+    background-color: black;
+}
